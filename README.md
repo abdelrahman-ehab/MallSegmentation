@@ -63,4 +63,4 @@ The dataset includes:
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/abdelrahman-ehab/MallSegmentation)
+   git clone (https://github.com/abdelrahman-ehab/mall-customer-segmentation)
